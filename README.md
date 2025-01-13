@@ -1,25 +1,8 @@
-## Hi there 👋
-
-<!--
-**Osondu-ifunanya/Osondu-Ifunanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">👋 Hi, I'm Osondu Ifunanya!</h1>
 <h3 align="center">🌟 A Passionate Data Scientist & Geospatial Analyst 🌍</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eteh1&label=Profile%20views&color=blueviolet&style=flat" alt="eteh1" />
+  <img src="https://komarev.com/ghpvc/?username=Osondu-ifunanya&label=Profile%20views&color=blueviolet&style=flat" alt="Osondu-ifunanya" />
 </p>
 
 ---
@@ -46,15 +29,15 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Osondu-ifunanya&show_icons=true&hide_border=true&theme=radical" alt="eteh1 GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Osondu-ifunanya&show_icons=true&hide_border=true&theme=radical" alt="Osondu-ifunanya GitHub Stats" />
 </p>  
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Osondu-ifunanya&theme=radical&hide_border=true" alt="eteh1 Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Osondu-ifunanya&theme=radical&hide_border=true" alt="Osondu-ifunanya Streak Stats" />
 </p>  
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osondu-ifunanya&theme=radical&layout=compact&hide_border=true" alt="eteh1 Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osondu-ifunanya&theme=radical&layout=compact&hide_border=true" alt="Osondu-ifunanya Top Languages" />
 </p>  
-
+ 
 ---
 
 ### 💻 Tech Stack  
@@ -82,6 +65,15 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://linkedin.com/in/ifunanya-benjamin-bb7714195" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
 </p>  
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Osondu-ifunanya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Osondu-ifunanya&limit=5&theme=radical&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=Osondu-ifunanya&icon=1&color=3)](https://visitcount.itsvg.in)
 
 ---
 
